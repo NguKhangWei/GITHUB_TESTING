@@ -2,3 +2,4 @@
 
 - This is test 1 from Ngu Khang Wei!
 - new-branch
+- new-branch2
